@@ -15,7 +15,7 @@ This is a front end site with general info about disc golf.
 
 ## Featured Code
 
-### Using Action Results and Async
+### Webpage HTML
 
 ```HTML
   <body>
