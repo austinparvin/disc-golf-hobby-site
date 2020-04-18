@@ -10,7 +10,7 @@ This is a front end site with general info about disc golf.
 
 # Includes: 
 
-- [HTML](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [NETLIFY](https://docs.netlify.com/?_ga=2.56383019.1272475466.1587169866-1421079835.1583768648)
 
 ## Featured Code
